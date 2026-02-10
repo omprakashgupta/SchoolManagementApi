@@ -1,5 +1,6 @@
 using FluentValidation;
 using SchoolManagementApi.Api.DTOs.Announcements;
+using SchoolManagementApi.Api.DTOs.Auth;
 using SchoolManagementApi.Api.DTOs.Attendance;
 using SchoolManagementApi.Api.DTOs.Classes;
 using SchoolManagementApi.Api.DTOs.Exams;
@@ -55,6 +56,7 @@ public static class ValidationServiceCollectionExtensions
         services.AddScoped<IValidator<InventoryUpdateDto>, InventoryUpdateDtoValidator>();
         services.AddScoped<IValidator<HealthCreateDto>, HealthCreateDtoValidator>();
         services.AddScoped<IValidator<HealthUpdateDto>, HealthUpdateDtoValidator>();
+        services.AddScoped<IValidator<LoginRequestDto>, LoginRequestDtoValidator>();
 
         return services;
     }

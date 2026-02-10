@@ -84,3 +84,4 @@ C:\OM\Api\SchoolManagementApi\src\SchoolManagementApi.Api\obj\Debug\net8.0\refin
 C:\OM\Api\SchoolManagementApi\src\SchoolManagementApi.Api\obj\Debug\net8.0\SchoolManagementApi.Api.pdb
 C:\OM\Api\SchoolManagementApi\src\SchoolManagementApi.Api\obj\Debug\net8.0\SchoolManagementApi.Api.genruntimeconfig.cache
 C:\OM\Api\SchoolManagementApi\src\SchoolManagementApi.Api\obj\Debug\net8.0\ref\SchoolManagementApi.Api.dll
+C:\OM\Api\SchoolManagementApi\src\SchoolManagementApi.Api\obj\Debug\net8.0\SchoolManagementApi.Api.sourcelink.json
